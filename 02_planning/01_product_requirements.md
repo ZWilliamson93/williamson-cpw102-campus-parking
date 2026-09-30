@@ -22,7 +22,7 @@ Write three things the program must do. Make each one specific enough to test.
 
 1. The program must Estimate parking price for set time
 2. The program must Tell user Cost of parking 
-3. The program must Identification 
+3. The program must Identify user
 
 ## Not included
 
