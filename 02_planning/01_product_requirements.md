@@ -27,8 +27,8 @@ Write three things the program must do. Make each one specific enough to test.
 ## Not included
 
 What will this version **not** do?
-make a transaction
-not do taxes
+make a transaction 
+not do taxes 
 -
 
 ## Success
